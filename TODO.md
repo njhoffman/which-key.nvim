@@ -1,5 +1,7 @@
 # Todo
 
+## 1. which-key
+
 - [x] create keymaps in register()
 - [x] distinction between actual keymap and just a desc
 - [x] virtual mappings wihtout real children?
@@ -45,6 +47,6 @@
 - [x] floating help text?
 - [x] move old option check to checkhealth
 - [x] show scrolling hint when can't fit all mappings
-- [ ] more tests
-- [ ] hint characters in desc
-- [ ] intgerate with lazy.nvim. Get description there if set
+- [ ] (p2) [test] more tests
+- [ ] (p3) [feature] hint characters in desc
+- [ ] (p3) [feature] intgerate with lazy.nvim. Get description there if set
